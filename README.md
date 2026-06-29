@@ -7,7 +7,7 @@ Je conçois et maintiens des infrastructures "Entreprise" à domicile (Home-Lab)
 
 ### 🌐 Mon Portfolio & Mes Architectures
 Tu veux voir mes schémas réseau et mes déploiements en détail ?
-👉 **[Visite mon Portfolio Interactif](https://ton-nom-de-domaine.com)** *(Remplace par le lien de ton site ZimaBlade !)*
+👉 **[Visite mon Portfolio Interactif](https://portfolio.oliviernas.fr)** 
 
 ### 💻 Ma Stack Technique Principale
 - **Réseau & Sécurité :** UniFi (VLANs, IDS/IPS), Cloudflare (Zero Trust Tunnels), Pare-feu "Default Deny"
